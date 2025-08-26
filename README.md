@@ -72,7 +72,7 @@ pip install opencv-contrib-python cx_Freeze
 
 4. **Run the application:**
 ```bash
-python faceapp.py
+python train.py
 ```
 
 5. **Use the GUI to:**
