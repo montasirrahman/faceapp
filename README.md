@@ -110,3 +110,14 @@ The application provides a **clean Tkinter interface** with:
 
 ## 📜 License
 This project is **open-source**. Feel free to use, modify, and contribute!
+
+
+
+
+
+
+conda create -n face_app python=3.9 -y
+conda activate face_app
+conda install -c conda-forge opencv numpy pillow pandas tk matplotlib scikit-learn
+pip install opencv-contrib-python
+
